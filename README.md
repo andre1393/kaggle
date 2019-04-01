@@ -1,2 +1,2 @@
 # kaggle
-repositório criado com o objetivo de hospedar projetos desenvolvidos no site kaggle
+In this repository I keep the algorithms used in kaggle competitions.
